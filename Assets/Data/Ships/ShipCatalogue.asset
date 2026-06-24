@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 217caca30d2dd624e938f92495cd2f0b, type: 3}
+  m_Name: ShipCatalogue
+  m_EditorClassIdentifier: Assembly-CSharp::ShipCatalog
+  playerPrefabCatalog:
+  - {fileID: 1619761249315808636, guid: 51acf01f881598940a25f6760615b3c8, type: 3}

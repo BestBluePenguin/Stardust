@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ea790fb49d19e34ca7c7453b64c2aae, type: 3}
+  m_Name: ProjectileA
+  m_EditorClassIdentifier: Assembly-CSharp::ProjectileDef
+  displayName: Inert A
+  damageType: 0
+  velocity: 250
+  damage: 25
+  armorPenetration: 5
+  tracerColor: {r: 0.23529412, g: 1, b: 0.9103774, a: 0}
+  lifeTime: 5
+  prefab: {fileID: 8895355253551078111, guid: 3fff968a10026964b9ccd63cd3b2d4a4, type: 3}
